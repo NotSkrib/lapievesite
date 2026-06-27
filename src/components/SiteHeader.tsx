@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { useScroll, useMotionValueEvent } from "motion/react";
 import { List, X } from "@phosphor-icons/react";
@@ -46,9 +47,17 @@ export function SiteHeader() {
       <Container className="flex h-16 items-center justify-between gap-6">
         <Link
           href="/"
-          className="font-display text-2xl leading-none tracking-tight text-ink"
+          className="flex items-center gap-2.5 font-display text-2xl leading-none tracking-tight text-ink"
           onClick={() => setOpen(false)}
         >
+          <Image
+            src="/images/logos/logo_az2.png"
+            alt="La Pieve crest"
+            width={36}
+            height={36}
+            className="h-9 w-auto object-contain"
+            priority
+          />
           La Pieve
         </Link>
 
