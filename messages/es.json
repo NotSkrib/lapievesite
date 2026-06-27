@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "La Pieve | Villas en el campo toscano",
+    "description": "Seis villas independientes con piscina privada, en quince hectáreas de olivar y viña cerca de Pisa, en la Toscana."
+  },
+  "nav": {
+    "home": "Inicio",
+    "villas": "Villas",
+    "gallery": "Galería",
+    "location": "Ubicación",
+    "booking": "Reservas",
+    "contact": "Contacto",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "skip": "Ir al contenido"
+  },
+  "cta": {
+    "primary": "Consultar disponibilidad",
+    "viewVilla": "Ver la villa",
+    "viewAll": "Ver las seis villas",
+    "viewGallery": "Ver la galería",
+    "directions": "Cómo llegar",
+    "email": "Escríbenos",
+    "call": "Llamar"
+  },
+  "hero": {
+    "title": "Historia en el corazón de la",
+    "titleEm": "Toscana",
+    "subtitle": "Seis villas independientes con piscina privada, en quince hectáreas de olivar y viña cerca de Pisa."
+  },
+  "place": {
+    "title": "A los pies del Monte Serra",
+    "body1": "La Pieve se encuentra en el Val Graziosa, el valle tranquilo detrás de Calci. Quince hectáreas de olivos y vides guardan un microclima suave, donde limones, naranjas, melocotones e higos maduran todo el año.",
+    "body2": "Es ese campo lento y abierto que hace desvanecer la ciudad. Las casas son antiguas, restauradas con cuidado, y cada una conserva su propio trozo de tierra."
+  },
+  "villas": {
+    "title": "Las villas",
+    "subtitle": "Seis casas restauradas, cada una independiente, cada una con piscina privada.",
+    "themes": {
+      "vineyard": "La viña",
+      "lemon": "El limonero",
+      "oleander": "La adelfa",
+      "fig": "La higuera",
+      "oilMill": "El molino de aceite",
+      "house": "La casa grande"
+    }
+  },
+  "amenities": {
+    "title": "Lo que ofrece cada villa",
+    "pool": {
+      "title": "Tu propia piscina",
+      "body": "Cada casa tiene piscina privada, nunca compartida con las demás."
+    },
+    "independent": {
+      "title": "Casas independientes",
+      "body": "Cada villa es independiente, con su entrada y su espacio exterior."
+    },
+    "kitchen": {
+      "title": "Una cocina para ti",
+      "body": "Cocina completa o kitchenette en cada casa, para cocinar a tu gusto."
+    },
+    "bathrooms": {
+      "title": "Habitaciones con baño",
+      "body": "Cada habitación cuenta con su propio baño privado."
+    },
+    "style": {
+      "title": "Carácter toscano",
+      "body": "Casas de piedra amuebladas al estilo tradicional de la región."
+    },
+    "facilities": {
+      "title": "Confort moderno",
+      "body": "Tras los viejos muros, las comodidades de hoy."
+    }
+  },
+  "location": {
+    "title": "Encontrar La Pieve",
+    "subtitle": "Cerca de Calci, a poca distancia de Pisa y de la costa toscana.",
+    "reachTitle": "Cerca de todo",
+    "byCarTitle": "Llegar en coche",
+    "fromPisa": "Desde Pisa, hacia Calci y sigue la carretera del valle hasta la iglesia.",
+    "fromFlorence": "Desde Florencia, la FI-PI-LI hasta Pisa Nord, luego hacia Calci.",
+    "fromGenoa": "Desde Génova, sal de la A12 en Pisa Nord y continúa hacia Calci.",
+    "parking": "El aparcamiento está junto a la iglesia, a unos veinte metros de las casas.",
+    "openMap": "Abrir en Google Maps"
+  },
+  "gallery": {
+    "title": "El lugar, en imágenes",
+    "subtitle": "Las casas, las piscinas y la tierra alrededor.",
+    "filterAll": "Todo"
+  },
+  "booking": {
+    "title": "Planea tu estancia",
+    "body": "Dinos tus fechas y la villa que tienes en mente. Respondemos cada mensaje en persona.",
+    "note": "La reserva es por email, así hablas siempre directamente con nosotros."
+  },
+  "enquiry": {
+    "intro": "Envíanos tus fechas y te responderemos con disponibilidad y precio.",
+    "name": "Tu nombre",
+    "email": "Tu email",
+    "arrival": "Llegada",
+    "departure": "Salida",
+    "villa": "Villa",
+    "villaAny": "Aún sin preferencia",
+    "guests": "Personas",
+    "message": "Algo más que debamos saber",
+    "send": "Enviar consulta",
+    "week": "Semana",
+    "weekHelp": "Las estancias van de sábado a sábado, una semana cada vez.",
+    "weekPlaceholder": "Elige una semana",
+    "weekBusy": "reservada",
+    "weekLoading": "Cargando disponibilidad...",
+    "fallback": "O escríbenos directamente a"
+  },
+  "villaPage": {
+    "back": "Todas las villas",
+    "aboutTitle": "La casa",
+    "galleryTitle": "Dentro y fuera",
+    "bookTitle": "Alojarse en {name}",
+    "bookBody": "Consulta fechas y disponibilidad de {name} por email.",
+    "otherTitle": "Las otras villas"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Estaremos encantados de ayudarte con fechas, accesos y lo demás.",
+    "writeTitle": "Escribe o llama",
+    "findTitle": "Dónde estamos"
+  },
+  "footer": {
+    "tagline": "Seis villas en el campo toscano, cerca de Pisa.",
+    "explore": "Explorar",
+    "stay": "Estancia",
+    "contact": "Contacto",
+    "language": "Idioma",
+    "rights": "Todos los derechos reservados."
+  }
+}

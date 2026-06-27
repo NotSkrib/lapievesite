@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "La Pieve | Villa's op het Toscaanse platteland",
+    "description": "Zes onafhankelijke villa's met privézwembad, op vijftien hectare olijfgaard en wijngaard bij Pisa, Toscane."
+  },
+  "nav": {
+    "home": "Home",
+    "villas": "Villa's",
+    "gallery": "Galerij",
+    "location": "Locatie",
+    "booking": "Reserveren",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Sluiten",
+    "skip": "Naar inhoud"
+  },
+  "cta": {
+    "primary": "Beschikbaarheid bekijken",
+    "viewVilla": "Bekijk de villa",
+    "viewAll": "Bekijk alle zes villa's",
+    "viewGallery": "Naar de galerij",
+    "directions": "Route",
+    "email": "Mail ons",
+    "call": "Bellen"
+  },
+  "hero": {
+    "title": "Geschiedenis in het hart van",
+    "titleEm": "Toscane",
+    "subtitle": "Zes onafhankelijke villa's met privézwembad, op vijftien hectare olijfgaard en wijngaard bij Pisa."
+  },
+  "place": {
+    "title": "Aan de voet van de Monte Serra",
+    "body1": "La Pieve ligt in de Val Graziosa, het stille dal achter Calci. Vijftien hectare olijfbomen en wijnranken bewaren een zacht microklimaat, waar citroenen, sinaasappels, perziken en vijgen het hele jaar rijpen.",
+    "body2": "Het is dat trage, open land waar de stad wegvalt. De huizen zijn oud, met zorg gerestaureerd, en elk houdt zijn eigen stuk grond."
+  },
+  "villas": {
+    "title": "De villa's",
+    "subtitle": "Zes gerestaureerde huizen, elk onafhankelijk, elk met een privézwembad.",
+    "themes": {
+      "vineyard": "De wijngaard",
+      "lemon": "De citroen",
+      "oleander": "De oleander",
+      "fig": "De vijgenboom",
+      "oilMill": "De oliemolen",
+      "house": "Het grote huis"
+    }
+  },
+  "amenities": {
+    "title": "Wat elke villa biedt",
+    "pool": {
+      "title": "Je eigen zwembad",
+      "body": "Elk huis heeft een privézwembad, nooit gedeeld met de andere."
+    },
+    "independent": {
+      "title": "Vrijstaande huizen",
+      "body": "Elke villa staat op zichzelf, met eigen ingang en buitenruimte."
+    },
+    "kitchen": {
+      "title": "Een eigen keuken",
+      "body": "Volledige keuken of kitchenette in elk huis, koken zoals je wilt."
+    },
+    "bathrooms": {
+      "title": "Slaapkamers met badkamer",
+      "body": "Elke slaapkamer heeft een eigen privébadkamer."
+    },
+    "style": {
+      "title": "Toscaans karakter",
+      "body": "Stenen huizen ingericht in de traditionele stijl van de streek."
+    },
+    "facilities": {
+      "title": "Modern comfort",
+      "body": "Achter de oude muren het comfort van vandaag."
+    }
+  },
+  "location": {
+    "title": "La Pieve vinden",
+    "subtitle": "Bij Calci, op korte rijafstand van Pisa en de Toscaanse kust.",
+    "reachTitle": "Binnen handbereik",
+    "byCarTitle": "Met de auto",
+    "fromPisa": "Vanuit Pisa richting Calci en volg de dalweg omhoog tot de kerk.",
+    "fromFlorence": "Vanuit Florence via de FI-PI-LI tot Pisa Nord, dan richting Calci.",
+    "fromGenoa": "Vanuit Genua verlaat je de A12 bij Pisa Nord en rij je door naar Calci.",
+    "parking": "Parkeren kan bij de kerk, ongeveer twintig meter van de huizen.",
+    "openMap": "Openen in Google Maps"
+  },
+  "gallery": {
+    "title": "De plek, in beeld",
+    "subtitle": "De huizen, de zwembaden en het land eromheen.",
+    "filterAll": "Alles"
+  },
+  "booking": {
+    "title": "Plan je verblijf",
+    "body": "Geef je data door en de villa die je op het oog hebt. We beantwoorden elk bericht zelf.",
+    "note": "Reserveren gaat per e-mail, zo spreek je altijd rechtstreeks met ons."
+  },
+  "enquiry": {
+    "intro": "Stuur ons je data en we komen terug met beschikbaarheid en prijs.",
+    "name": "Je naam",
+    "email": "Je e-mail",
+    "arrival": "Aankomst",
+    "departure": "Vertrek",
+    "villa": "Villa",
+    "villaAny": "Nog geen voorkeur",
+    "guests": "Gasten",
+    "message": "Iets anders dat we moeten weten",
+    "send": "Aanvraag versturen",
+    "week": "Week",
+    "weekHelp": "Verblijven lopen van zaterdag tot zaterdag, een week per keer.",
+    "weekPlaceholder": "Kies een week",
+    "weekBusy": "bezet",
+    "weekLoading": "Beschikbaarheid laden...",
+    "fallback": "Of schrijf ons rechtstreeks op"
+  },
+  "villaPage": {
+    "back": "Alle villa's",
+    "aboutTitle": "Het huis",
+    "galleryTitle": "Binnen en buiten",
+    "bookTitle": "Verblijf in {name}",
+    "bookBody": "Bekijk data en beschikbaarheid voor {name} per e-mail.",
+    "otherTitle": "De andere villa's"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We helpen je graag met data, route en al het andere.",
+    "writeTitle": "Schrijf of bel",
+    "findTitle": "Waar we zijn"
+  },
+  "footer": {
+    "tagline": "Zes villa's op het Toscaanse platteland, bij Pisa.",
+    "explore": "Ontdek",
+    "stay": "Verblijf",
+    "contact": "Contact",
+    "language": "Taal",
+    "rights": "Alle rechten voorbehouden."
+  }
+}

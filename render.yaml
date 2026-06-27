@@ -1,0 +1,39 @@
+# Render Blueprint. In Render: New > Blueprint, point it at this repo, and it
+# reads this file. Or create a Web Service manually with the build/start
+# commands below.
+services:
+  - type: web
+    name: lapieve
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      # Airbnb + Booking.com iCal feeds. Left blank here (sync: false) so you
+      # paste the real URLs into the Render dashboard, not into git.
+      - key: ICAL_VIGNA_AIRBNB
+        sync: false
+      - key: ICAL_VIGNA_BOOKING
+        sync: false
+      - key: ICAL_LIMONE_AIRBNB
+        sync: false
+      - key: ICAL_LIMONE_BOOKING
+        sync: false
+      - key: ICAL_OLEANDRO_AIRBNB
+        sync: false
+      - key: ICAL_OLEANDRO_BOOKING
+        sync: false
+      - key: ICAL_FICO_AIRBNB
+        sync: false
+      - key: ICAL_FICO_BOOKING
+        sync: false
+      - key: ICAL_FRANTOIO_AIRBNB
+        sync: false
+      - key: ICAL_FRANTOIO_BOOKING
+        sync: false
+      - key: ICAL_NERINO_AIRBNB
+        sync: false
+      - key: ICAL_NERINO_BOOKING
+        sync: false

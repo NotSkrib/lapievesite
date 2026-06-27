@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "La Pieve | Villas in the Tuscan countryside",
+    "description": "Six independent villas with private pools, set in fifteen hectares of olive grove and vineyard near Pisa, Tuscany."
+  },
+  "nav": {
+    "home": "Home",
+    "villas": "Villas",
+    "gallery": "Gallery",
+    "location": "Location",
+    "booking": "Booking",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close",
+    "skip": "Skip to content"
+  },
+  "cta": {
+    "primary": "Check availability",
+    "viewVilla": "View this villa",
+    "viewAll": "See all six villas",
+    "viewGallery": "See the gallery",
+    "directions": "Get directions",
+    "email": "Email us",
+    "call": "Call"
+  },
+  "hero": {
+    "title": "History in the heart of",
+    "titleEm": "Tuscany",
+    "subtitle": "Six independent villas with private pools, set in fifteen hectares of olive grove and vineyard near Pisa."
+  },
+  "place": {
+    "title": "At the foot of Monte Serra",
+    "body1": "La Pieve sits in the Val Graziosa, the quiet valley behind Calci. Fifteen hectares of olive trees and vines hold a soft microclimate, where lemons, oranges, peaches and figs ripen through the year.",
+    "body2": "It is the kind of slow, open country that lets the city fall away. The houses are old, restored with care, and each one keeps its own piece of the land."
+  },
+  "villas": {
+    "title": "The villas",
+    "subtitle": "Six restored houses, each independent, each with a private pool.",
+    "themes": {
+      "vineyard": "The vineyard",
+      "lemon": "The lemon",
+      "oleander": "The oleander",
+      "fig": "The fig",
+      "oilMill": "The oil mill",
+      "house": "The big house"
+    }
+  },
+  "amenities": {
+    "title": "What every villa gives you",
+    "pool": {
+      "title": "Your own pool",
+      "body": "Each house has a private pool, never shared with the others."
+    },
+    "independent": {
+      "title": "Independent houses",
+      "body": "Every villa stands alone, with its own entrance and outdoor space."
+    },
+    "kitchen": {
+      "title": "A kitchen of your own",
+      "body": "A full kitchen or kitchenette in every house, so you cook as you please."
+    },
+    "bathrooms": {
+      "title": "Ensuite bedrooms",
+      "body": "Bedrooms come with their own private bathroom."
+    },
+    "style": {
+      "title": "Old Tuscan character",
+      "body": "Stone houses furnished in the traditional style of the region."
+    },
+    "facilities": {
+      "title": "Modern comfort",
+      "body": "Behind the old walls, the comforts you expect today."
+    }
+  },
+  "location": {
+    "title": "Finding La Pieve",
+    "subtitle": "Near Calci, a short drive from Pisa and the Tuscan coast.",
+    "reachTitle": "Within easy reach",
+    "byCarTitle": "Coming by car",
+    "fromPisa": "From Pisa, head towards Calci and follow the valley road up to the church.",
+    "fromFlorence": "From Florence, take the FI-PI-LI to Pisa Nord, then on towards Calci.",
+    "fromGenoa": "From Genoa, leave the A12 at Pisa Nord and continue towards Calci.",
+    "parking": "Parking is by the church, about twenty metres from the houses.",
+    "openMap": "Open in Google Maps"
+  },
+  "gallery": {
+    "title": "The place, in pictures",
+    "subtitle": "Houses, pools and the land around them.",
+    "filterAll": "Everything"
+  },
+  "booking": {
+    "title": "Plan your stay",
+    "body": "Tell us your dates and the villa you have in mind. We answer every message ourselves.",
+    "note": "Booking is by email, so you always speak to us directly."
+  },
+  "enquiry": {
+    "intro": "Send us your dates and we will come back to you with availability and a price.",
+    "name": "Your name",
+    "email": "Your email",
+    "arrival": "Arrival",
+    "departure": "Departure",
+    "villa": "Villa",
+    "villaAny": "No preference yet",
+    "guests": "Guests",
+    "message": "Anything else we should know",
+    "send": "Send enquiry",
+    "week": "Week",
+    "weekHelp": "Stays run Saturday to Saturday, one week at a time.",
+    "weekPlaceholder": "Choose a week",
+    "weekBusy": "booked",
+    "weekLoading": "Loading availability...",
+    "fallback": "Or write to us directly at"
+  },
+  "villaPage": {
+    "back": "All villas",
+    "aboutTitle": "About the house",
+    "galleryTitle": "Inside and out",
+    "bookTitle": "Stay at {name}",
+    "bookBody": "Check dates and availability for {name} by email.",
+    "otherTitle": "The other villas"
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "We are glad to help with dates, directions and anything else.",
+    "writeTitle": "Write or call",
+    "findTitle": "Where we are"
+  },
+  "footer": {
+    "tagline": "Six villas in the Tuscan countryside, near Pisa.",
+    "explore": "Explore",
+    "stay": "Stay",
+    "contact": "Contact",
+    "language": "Language",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "La Pieve | Villas dans la campagne toscane",
+    "description": "Six villas indépendantes avec piscine privée, sur quinze hectares d'oliveraie et de vigne près de Pise, en Toscane."
+  },
+  "nav": {
+    "home": "Accueil",
+    "villas": "Villas",
+    "gallery": "Galerie",
+    "location": "Accès",
+    "booking": "Réservation",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Fermer",
+    "skip": "Aller au contenu"
+  },
+  "cta": {
+    "primary": "Vérifier les disponibilités",
+    "viewVilla": "Voir la villa",
+    "viewAll": "Voir les six villas",
+    "viewGallery": "Voir la galerie",
+    "directions": "Itinéraire",
+    "email": "Écrivez-nous",
+    "call": "Appeler"
+  },
+  "hero": {
+    "title": "L'histoire au coeur de la",
+    "titleEm": "Toscane",
+    "subtitle": "Six villas indépendantes avec piscine privée, sur quinze hectares d'oliveraie et de vigne près de Pise."
+  },
+  "place": {
+    "title": "Au pied du Monte Serra",
+    "body1": "La Pieve se trouve dans le Val Graziosa, la vallée paisible derrière Calci. Quinze hectares d'oliviers et de vignes gardent un microclimat doux, où citrons, oranges, pêches et figues mûrissent toute l'année.",
+    "body2": "C'est cette campagne lente et ouverte qui fait oublier la ville. Les maisons sont anciennes, restaurées avec soin, et chacune garde sa part de terre."
+  },
+  "villas": {
+    "title": "Les villas",
+    "subtitle": "Six maisons restaurées, chacune indépendante, chacune avec sa piscine privée.",
+    "themes": {
+      "vineyard": "La vigne",
+      "lemon": "Le citronnier",
+      "oleander": "Le laurier-rose",
+      "fig": "Le figuier",
+      "oilMill": "Le moulin à huile",
+      "house": "La grande maison"
+    }
+  },
+  "amenities": {
+    "title": "Ce qu'offre chaque villa",
+    "pool": {
+      "title": "Votre piscine",
+      "body": "Chaque maison a sa piscine privée, jamais partagée avec les autres."
+    },
+    "independent": {
+      "title": "Maisons indépendantes",
+      "body": "Chaque villa est à part, avec son entrée et son espace extérieur."
+    },
+    "kitchen": {
+      "title": "Une cuisine à vous",
+      "body": "Cuisine complète ou kitchenette dans chaque maison, pour cuisiner à votre guise."
+    },
+    "bathrooms": {
+      "title": "Chambres avec salle de bain",
+      "body": "Chaque chambre dispose de sa propre salle de bain privée."
+    },
+    "style": {
+      "title": "Caractère toscan",
+      "body": "Maisons en pierre meublées dans le style traditionnel de la région."
+    },
+    "facilities": {
+      "title": "Confort moderne",
+      "body": "Derrière les vieux murs, le confort d'aujourd'hui."
+    }
+  },
+  "location": {
+    "title": "Trouver La Pieve",
+    "subtitle": "Près de Calci, à courte distance de Pise et de la côte toscane.",
+    "reachTitle": "À proximité",
+    "byCarTitle": "Venir en voiture",
+    "fromPisa": "De Pise, direction Calci, puis la route de la vallée jusqu'à l'église.",
+    "fromFlorence": "De Florence, la FI-PI-LI jusqu'à Pisa Nord, puis vers Calci.",
+    "fromGenoa": "De Gênes, quittez l'A12 à Pisa Nord et continuez vers Calci.",
+    "parking": "Le parking est près de l'église, à une vingtaine de mètres des maisons.",
+    "openMap": "Ouvrir dans Google Maps"
+  },
+  "gallery": {
+    "title": "Le lieu, en images",
+    "subtitle": "Les maisons, les piscines et la terre alentour.",
+    "filterAll": "Tout"
+  },
+  "booking": {
+    "title": "Préparez votre séjour",
+    "body": "Indiquez vos dates et la villa qui vous tente. Nous répondons nous-mêmes à chaque message.",
+    "note": "La réservation se fait par email, vous nous parlez toujours directement."
+  },
+  "enquiry": {
+    "intro": "Envoyez-nous vos dates et nous reviendrons vers vous avec disponibilité et tarif.",
+    "name": "Votre nom",
+    "email": "Votre email",
+    "arrival": "Arrivée",
+    "departure": "Départ",
+    "villa": "Villa",
+    "villaAny": "Pas encore de préférence",
+    "guests": "Personnes",
+    "message": "Autre chose à nous dire",
+    "send": "Envoyer la demande",
+    "week": "Semaine",
+    "weekHelp": "Les séjours vont du samedi au samedi, une semaine à la fois.",
+    "weekPlaceholder": "Choisir une semaine",
+    "weekBusy": "réservée",
+    "weekLoading": "Chargement des disponibilités...",
+    "fallback": "Ou écrivez-nous directement à"
+  },
+  "villaPage": {
+    "back": "Toutes les villas",
+    "aboutTitle": "La maison",
+    "galleryTitle": "Dedans et dehors",
+    "bookTitle": "Séjourner à {name}",
+    "bookBody": "Vérifiez les dates et la disponibilité de {name} par email.",
+    "otherTitle": "Les autres villas"
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "subtitle": "Nous serons ravis de vous aider pour les dates, l'accès et le reste.",
+    "writeTitle": "Écrire ou appeler",
+    "findTitle": "Où nous sommes"
+  },
+  "footer": {
+    "tagline": "Six villas dans la campagne toscane, près de Pise.",
+    "explore": "Explorer",
+    "stay": "Séjour",
+    "contact": "Contact",
+    "language": "Langue",
+    "rights": "Tous droits réservés."
+  }
+}
