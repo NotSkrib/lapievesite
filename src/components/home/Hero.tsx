@@ -31,7 +31,7 @@ export function Hero() {
   return (
     <section
       ref={ref}
-      className="relative isolate flex min-h-[100dvh] items-end overflow-hidden"
+      className="relative isolate flex min-h-[75dvh] items-end overflow-hidden sm:min-h-[100dvh]"
     >
       {/* Parallax photographic backdrop */}
       <motion.div
@@ -45,12 +45,12 @@ export function Hero() {
           className="relative h-full w-full"
         >
           <Image
-            src="/images/villas/vigna/dji_0480.jpg"
-            alt="Aerial view of La Pieve villas and olive grove in Tuscany"
+            src="/images/villas/vigna/dji_0637.jpg"
+            alt="Aerial view of La Pieve estate and villas in Tuscany"
             fill
             priority
             sizes="100vw"
-            className="object-cover"
+            className="object-cover object-center"
           />
         </motion.div>
       </motion.div>
