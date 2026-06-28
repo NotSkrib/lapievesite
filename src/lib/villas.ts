@@ -10,7 +10,8 @@ export type Villa = {
   blurb: Partial<Record<Locale, string>>;
   card: string; // poster image used on the home grid + villas index
   hero: string; // wide image for the villa detail header
-  gallery: string[]; // filenames inside /images/villas/<slug>/
+  gallery: string[]; // photo images inside /images/villas/<slug>/
+  floorPlans: string[]; // architectural floor plan images
 };
 
 const g = (slug: string, files: string[]) =>
@@ -45,6 +46,7 @@ export const villas: Villa[] = [
       "agriturismo-012medium.jpg",
       "g0302055medium.jpg",
     ]),
+    floorPlans: g("vigna", ["plan-ground.jpg", "plan-upper.jpg"]),
   },
   {
     slug: "limone",
@@ -75,6 +77,7 @@ export const villas: Villa[] = [
       "limo05medium.jpg",
       "limo09medium.jpg",
     ]),
+    floorPlans: g("limone", ["plan.jpg"]),
   },
   {
     slug: "oleandro",
@@ -106,6 +109,7 @@ export const villas: Villa[] = [
       "tt1-1900-medium.jpg",
       "olea05medium.jpg",
     ]),
+    floorPlans: g("oleandro", ["plan.jpg"]),
   },
   {
     slug: "fico",
@@ -135,6 +139,7 @@ export const villas: Villa[] = [
       "fico07medium.jpg",
       "fico13medium.jpg",
     ]),
+    floorPlans: g("fico", ["plan.jpg"]),
   },
   {
     slug: "frantoio",
@@ -164,6 +169,7 @@ export const villas: Villa[] = [
       "frant17.jpg",
       "dscn1649.jpg",
     ]),
+    floorPlans: g("frantoio", ["plan.jpg"]),
   },
   {
     slug: "nerino",
@@ -196,6 +202,7 @@ export const villas: Villa[] = [
       "img-1635.jpg",
       "img-1642.jpg",
     ]),
+    floorPlans: [], // no floor plan available for Nerino
   },
 ];
 

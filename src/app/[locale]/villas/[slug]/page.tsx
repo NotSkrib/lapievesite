@@ -129,6 +129,31 @@ export default async function VillaPage({
         <GalleryGrid images={images} />
       </Container>
 
+      {/* Floor plan */}
+      {v.floorPlans.length > 0 && (
+        <Container className="pb-20 sm:pb-24">
+          <h2 className="mb-8 font-display text-3xl tracking-tight text-ink sm:text-4xl">
+            {t("floorPlanTitle")}
+          </h2>
+          <div className={`grid gap-6 ${v.floorPlans.length > 1 ? "sm:grid-cols-2" : "max-w-2xl"}`}>
+            {v.floorPlans.map((src, i) => (
+              <div
+                key={src}
+                className="overflow-hidden rounded-[var(--radius-lg)] border border-border bg-surface"
+              >
+                <Image
+                  src={src}
+                  alt={`${v.name} floor plan${v.floorPlans.length > 1 ? ` ${i + 1}` : ""}`}
+                  width={800}
+                  height={600}
+                  className="h-auto w-full object-contain"
+                />
+              </div>
+            ))}
+          </div>
+        </Container>
+      )}
+
       {/* Booking band */}
       <Container>
         <div className="overflow-hidden rounded-[var(--radius-lg)] bg-[#2c3527] px-7 py-14 text-[#f1f1e8] sm:px-14 sm:py-16">

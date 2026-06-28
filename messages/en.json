@@ -115,6 +115,7 @@
     "back": "All villas",
     "aboutTitle": "About the house",
     "galleryTitle": "Inside and out",
+    "floorPlanTitle": "Floor Plan",
     "bookTitle": "Stay at {name}",
     "bookBody": "Check dates and availability for {name} by email.",
     "otherTitle": "The other villas"

@@ -19,9 +19,10 @@ export default async function GalleryPage({
   setRequestLocale(locale);
   const t = await getTranslations("gallery");
 
-  const images = villas.flatMap((v) =>
-    v.gallery.map((src) => ({ src, alt: `${v.name} villa at La Pieve` })),
-  );
+  const images = villas.flatMap((v) => [
+    ...v.gallery.map((src) => ({ src, alt: `${v.name} villa at La Pieve` })),
+    ...v.floorPlans.map((src) => ({ src, alt: `${v.name} floor plan` })),
+  ]);
 
   return (
     <div className="pb-12">
