@@ -12,6 +12,8 @@ export type Villa = {
   hero: string; // wide image for the villa detail header
   gallery: string[]; // photo images inside /images/villas/<slug>/
   floorPlans: string[]; // architectural floor plan images
+  bathrooms: number;
+  hasAirCon: boolean;
 };
 
 const g = (slug: string, files: string[]) =>
@@ -47,6 +49,8 @@ export const villas: Villa[] = [
       "g0302055medium.jpg",
     ]),
     floorPlans: g("vigna", ["plan-ground.jpg", "plan-upper.jpg"]),
+    bathrooms: 4,
+    hasAirCon: true,
   },
   {
     slug: "limone",
@@ -78,6 +82,8 @@ export const villas: Villa[] = [
       "limo09medium.jpg",
     ]),
     floorPlans: g("limone", ["plan.jpg"]),
+    bathrooms: 3,
+    hasAirCon: true,
   },
   {
     slug: "oleandro",
@@ -110,6 +116,8 @@ export const villas: Villa[] = [
       "olea05medium.jpg",
     ]),
     floorPlans: g("oleandro", ["plan.jpg"]),
+    bathrooms: 3,
+    hasAirCon: true,
   },
   {
     slug: "fico",
@@ -140,6 +148,8 @@ export const villas: Villa[] = [
       "fico13medium.jpg",
     ]),
     floorPlans: g("fico", ["plan.jpg"]),
+    bathrooms: 3,
+    hasAirCon: true,
   },
   {
     slug: "frantoio",
@@ -170,6 +180,8 @@ export const villas: Villa[] = [
       "dscn1649.jpg",
     ]),
     floorPlans: g("frantoio", ["plan.jpg"]),
+    bathrooms: 5,
+    hasAirCon: false,
   },
   {
     slug: "nerino",
@@ -203,6 +215,8 @@ export const villas: Villa[] = [
       "img-1642.jpg",
     ]),
     floorPlans: [], // no floor plan available for Nerino
+    bathrooms: 5,
+    hasAirCon: true,
   },
 ];
 

@@ -60,8 +60,11 @@
       "body": "Cucina o angolo cottura in ogni casa, per cucinare come preferisci."
     },
     "bathrooms": {
-      "title": "Camere con bagno",
-      "body": "Le camere hanno ciascuna il proprio bagno privato."
+      "title": "Bagni",
+      "body": "Ogni camera ha il proprio bagno privato en suite."
+    },
+    "aircon": {
+      "title": "Aria condizionata"
     },
     "style": {
       "title": "Carattere toscano",

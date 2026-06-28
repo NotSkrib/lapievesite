@@ -60,8 +60,11 @@
       "body": "Volledige keuken of kitchenette in elk huis, koken zoals je wilt."
     },
     "bathrooms": {
-      "title": "Slaapkamers met badkamer",
-      "body": "Elke slaapkamer heeft een eigen privébadkamer."
+      "title": "Badkamers",
+      "body": "Elke slaapkamer heeft een eigen privébadkamer en suite."
+    },
+    "aircon": {
+      "title": "Airconditioning"
     },
     "style": {
       "title": "Toscaans karakter",

@@ -60,8 +60,11 @@
       "body": "A full kitchen or kitchenette in every house, so you cook as you please."
     },
     "bathrooms": {
-      "title": "Ensuite bedrooms",
-      "body": "Bedrooms come with their own private bathroom."
+      "title": "Bathrooms",
+      "body": "Every bedroom has its own private en-suite bathroom."
+    },
+    "aircon": {
+      "title": "Air conditioning"
     },
     "style": {
       "title": "Old Tuscan character",

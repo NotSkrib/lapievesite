@@ -60,8 +60,11 @@
       "body": "Volle Küche oder Küchenzeile in jedem Haus, zum Kochen ganz nach Wunsch."
     },
     "bathrooms": {
-      "title": "Zimmer mit eigenem Bad",
-      "body": "Jedes Schlafzimmer hat sein eigenes privates Bad."
+      "title": "Badezimmer",
+      "body": "Jedes Schlafzimmer hat sein eigenes privates Bad en suite."
+    },
+    "aircon": {
+      "title": "Klimaanlage"
     },
     "style": {
       "title": "Toskanischer Charakter",

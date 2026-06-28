@@ -60,8 +60,11 @@
       "body": "Cocina completa o kitchenette en cada casa, para cocinar a tu gusto."
     },
     "bathrooms": {
-      "title": "Habitaciones con baño",
-      "body": "Cada habitación cuenta con su propio baño privado."
+      "title": "Baños",
+      "body": "Cada habitación cuenta con su propio baño privado en suite."
+    },
+    "aircon": {
+      "title": "Aire acondicionado"
     },
     "style": {
       "title": "Carácter toscano",

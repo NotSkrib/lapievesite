@@ -11,6 +11,7 @@ import {
   Bathtub,
   Armchair,
   Sparkle,
+  Wind,
 } from "@phosphor-icons/react/dist/ssr";
 import type { Icon } from "@phosphor-icons/react";
 import { Link } from "@/i18n/navigation";
@@ -113,9 +114,21 @@ export default async function VillaPage({
                   <span className="grid size-9 shrink-0 place-items-center rounded-full bg-surface-2 text-accent">
                     <Icon size={18} weight="regular" />
                   </span>
-                  <span className="text-ink">{tAmen(`${key}.title`)}</span>
+                  <span className="text-ink">
+                    {key === "bathrooms"
+                      ? `${v.bathrooms} ${tAmen("bathrooms.title")}`
+                      : tAmen(`${key}.title`)}
+                  </span>
                 </li>
               ))}
+              {v.hasAirCon && (
+                <li className="flex items-center gap-3">
+                  <span className="grid size-9 shrink-0 place-items-center rounded-full bg-surface-2 text-accent">
+                    <Wind size={18} weight="regular" />
+                  </span>
+                  <span className="text-ink">{tAmen("aircon.title")}</span>
+                </li>
+              )}
             </ul>
           </Reveal>
         </div>
