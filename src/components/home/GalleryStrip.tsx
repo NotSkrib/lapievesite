@@ -6,12 +6,12 @@ import { Container } from "@/components/ui/Container";
 
 // One horizontal element per page (skill Section 5). Scroll-snap, no JS needed.
 const shots = [
-  "/images/villas/vigna/_dsc0067.jpg",
-  "/images/villas/limone/_dsc5310.jpg",
-  "/images/villas/oleandro/_dsc0863.jpg",
-  "/images/villas/fico/_dsc0541.jpg",
-  "/images/villas/frantoio/_dsc3442.jpg",
-  "/images/villas/nerino/_dsc5365.jpg",
+  "/images/villas/vigna/dji_0475.jpg",
+  "/images/villas/limone/dji_0465.jpg",
+  "/images/villas/oleandro/dji_0380.jpg",
+  "/images/villas/fico/dji_0434.jpg",
+  "/images/villas/frantoio/dji_0563.jpg",
+  "/images/villas/nerino/dji_0441.jpg",
   "/images/villas/vigna/_dsc0457.jpg",
   "/images/villas/oleandro/_dsc0828.jpg",
   "/images/villas/nerino/_dsc5510.jpg",
