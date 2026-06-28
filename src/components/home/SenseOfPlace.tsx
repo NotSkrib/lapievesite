@@ -13,8 +13,8 @@ export async function SenseOfPlace() {
           <Reveal className="lg:col-span-7">
             <div className="relative aspect-[4/3] overflow-hidden rounded-[20px] shadow-[var(--shadow)]">
               <Image
-                src="/images/feature/s62053.jpg"
-                alt="The valley and countryside around La Pieve"
+                src="/images/villas/nerino/dji_0449.jpg"
+                alt="Aerial view of La Pieve estate and Tuscan valley"
                 fill
                 sizes="(max-width: 1024px) 100vw, 58vw"
                 className="object-cover"

@@ -45,8 +45,8 @@ export function Hero() {
           className="relative h-full w-full"
         >
           <Image
-            src="/images/feature/piscina-vigna.jpg"
-            alt="Private pool at La Pieve in the Tuscan countryside"
+            src="/images/villas/vigna/dji_0480.jpg"
+            alt="Aerial view of La Pieve villas and olive grove in Tuscany"
             fill
             priority
             sizes="100vw"
