@@ -105,6 +105,14 @@ export default async function VillaPage({
             <p className="mt-5 max-w-xl text-lg leading-relaxed text-muted">
               {villaBlurb(v, activeLocale)}
             </p>
+            <ul className="mt-6 space-y-1.5">
+              {v.features.map((f) => (
+                <li key={f} className="flex items-start gap-2 text-base text-muted">
+                  <span className="mt-1.5 size-1.5 shrink-0 rounded-full bg-accent" />
+                  {f}
+                </li>
+              ))}
+            </ul>
           </Reveal>
 
           <Reveal className="lg:col-span-5" delay={0.1}>

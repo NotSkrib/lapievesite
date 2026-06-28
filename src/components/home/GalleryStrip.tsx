@@ -6,15 +6,15 @@ import { Container } from "@/components/ui/Container";
 
 // One horizontal element per page (skill Section 5). Scroll-snap, no JS needed.
 const shots = [
-  "/images/villas/vigna/dsc0208-medium.jpg",
-  "/images/villas/limone/tt1-1946-medium.jpg",
-  "/images/villas/oleandro/dsc0080medium.jpg",
-  "/images/villas/fico/dsc9762medium.jpg",
-  "/images/villas/frantoio/20230617-133449.jpg",
-  "/images/villas/nerino/piscina1.jpg",
-  "/images/villas/vigna/dsc0213-medium.jpg",
-  "/images/feature/piscina-vigna.jpg",
-  "/images/villas/oleandro/piscinaoleandro1medium.jpg",
+  "/images/villas/vigna/_dsc0067.jpg",
+  "/images/villas/limone/_dsc5310.jpg",
+  "/images/villas/oleandro/_dsc0863.jpg",
+  "/images/villas/fico/_dsc0541.jpg",
+  "/images/villas/frantoio/_dsc3442.jpg",
+  "/images/villas/nerino/_dsc5365.jpg",
+  "/images/villas/vigna/_dsc0457.jpg",
+  "/images/villas/oleandro/_dsc0828.jpg",
+  "/images/villas/nerino/_dsc5510.jpg",
 ];
 
 export async function GalleryStrip() {
